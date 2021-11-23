@@ -1,6 +1,6 @@
 # Rapid Arrows Font r1.0
 
-![Rapid Arrows](rapid-arrows.png?raw=true "Rapid Arrows")
+![Rapid Arrows](rapid-arrows.svg?raw=true "Rapid Arrows")
 
 - freely inspired by Foglars / Fischers Rapid Arrows comic book
 - Extended Latin
